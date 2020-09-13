@@ -22,7 +22,7 @@ and load it with vbox
 [release links](https://github.com/Heersin/leafkernel/tree/master/releases)
 
 ## Screenshot
-(with keyboard file installed)
+(with keyboard file installed)<br>
 ![screenshot](https://github.com/Heersin/leafkernel/blob/master/samples/kernel_keyboard.png)
 
 ## Project Tree
@@ -45,5 +45,5 @@ and load it with vbox
 ```
 
 ## Reference
-[1][Bran's kernel](http://www.osdever.net/bkerndev/Docs/intro.htm) Thanks to [Brandon F.](friesenb@gmail.com) for giving me some suggestions.
+[1][Bran's kernel](http://www.osdever.net/bkerndev/Docs/intro.htm) Thanks to [Brandon F.](friesenb@gmail.com) for giving me some suggestions.<br>
 [2][My Blog](http://ironfool.com/2020/07/27/leafkernel-part1/)
